@@ -13,3 +13,11 @@
     background-attachment: scroll;
     background-color: lightgray;
 }
+
+.today {
+    font-size: 14px;
+    color: darkblue;
+    text-align: center;
+    background-attachment: fixed;
+    background-color: lightblue;
+}
